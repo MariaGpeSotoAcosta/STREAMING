@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1718341775 source:c:\users\pinki\onedrive\desktop\programas c++\snakes\proyecto_integrador\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<fstream>
+	<string>
+	"classesPP.cpp"
+
+1718341785 c:\users\pinki\onedrive\desktop\programas c++\snakes\proyecto_integrador\classespp.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<numeric>
+	<vector>
+	<algorithm>
+	<string>
+	<fstream>
+	"classes_proyecto.cpp"
+
+1718341764 c:\users\pinki\onedrive\desktop\programas c++\snakes\proyecto_integrador\classes_proyecto.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<numeric>
+	<vector>
+	<algorithm>
+	<string>
+	<fstream>
+
